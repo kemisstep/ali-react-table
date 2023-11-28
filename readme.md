@@ -1,5 +1,7 @@
 # ali-react-table
 
+## 备注：修改了react的版本号，到18
+
 ## 开发者平时工作实在太忙了，近期项目无法进行积极维护，抱歉。
 
 [![NPM Package](https://img.shields.io/npm/v/ali-react-table?style=flat-square)](https://www.npmjs.org/package/ali-react-table)
